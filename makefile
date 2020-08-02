@@ -1,6 +1,6 @@
 #/usr/bin/env bash
 
-all: README.md
+all: generate
 
 generate:
 	touch README.md
